@@ -65,9 +65,6 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-console.log('feito por gabriel');
-
-
 
 
 
